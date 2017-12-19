@@ -1,11 +1,11 @@
-#+MACRO: FIRST    John
-#+MACRO: LAST     Doe
-#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG     http://example.com
-#+MACRO: EMAIL    johndoe@exapmle.com
-#+MACRO: PHONE    +1 234 567 8900
-#+MACRO: CODE     https://github.com/johndoe
-#+MACRO: ADDRESS1 1, Broadway
-#+MACRO: ADDRESS2 New York
+#+MACRO: FIRST     Jaxson
+#+MACRO: LAST      Van Doorn
+#+MACRO: FULL      {{{FIRST}}} {{{LAST}}}
+#+MACRO: BLOG      https://woofers.github.io/
+#+MACRO: EMAIL     jaxson.vandoorn@gmail.com
+#+MACRO: PHONE     250-508-2275
+#+MACRO: CODE      https://github.com/woofers
+#+MACRO: ADDRESS1  8636 Sentinel Place
+#+MACRO: ADDRESS2  North Saanich BC, V8L 4Z8
 
 #+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }

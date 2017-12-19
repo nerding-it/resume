@@ -1,3 +1,8 @@
+
+
+#+Title:
+#+Author:
+#+Date:
 #+OPTIONS: toc:nil H:10 tex:t
 #+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
@@ -9,72 +14,51 @@
 
 {{{HEADER}}}
 
-* Experience
-** Software Developer at [[http://akvo.org][Akvo]]
-*** Sep 2016 - Present
-Full-stack developer for RSR --- a Django based reporting framework for
-organizations doing developmental work
-- Contributed quite a few of performance improvements to make the site snappier
-- General code quality improvements with better testing, apart from adding
-  features and fixing bugs.
-** Machine Learning Engineer at [[http://infilect.com][Infilect]]
-*** Jul 2015 - Mar 2016
-Worked on a fashion assistant leveraging deep neural networks for image based
-search and retrieval
-- Learnt about CNNs and became comfortable training models using Torch and
-  Caffe
-- Built a visual similarity based search system
-- Improved the data collection platform for the product database
-** Recurser at the [[https://recurse.com][Recurse Center]]
-*** Jun - Aug, 2014
-Spent 12-weeks in a collaborative, self-directed, programming retreat. Here's a
- [[https://punchagan.muse-amuse.in/recurse-center/][daily journal]] of what I did there.
-- Learnt about the internals of Python and built an inspection tool for CPython
-  code
-- Worked with hardware and helped build a LED spectrum analyzer among other
-  things
-
-** Software Developer at [[http://www.enthought.com][Enthought]]
-*** Sep 2011 - May 2014
-Primarily worked on [[https://www.enthought.com/products/canopy/][Canopy]] -- a Qt based development environment for
-Scientists/Engineers.
-- Helped design and build the first cut of an application platform for Python
-  based apps
-- Acquired some taste for good software design
-** Research Associate at [[http://fossee.in][FOSSEE]], IIT Bombay
-*** Jul 2009 - Jul 2011
-Helped increase the adoption of Python in college through training.
-- Designed and developed material for a course on [[https://github.com/FOSSEE/sees][Software Engineering for
-  Engineers and Scientists]]
-- Helped organize, design and conduct workshops spread across India
 * Projects
-
-I contribute to a number of FOSS projects in varying degrees. [[https://github.com/punchagan][GitHub]] provides a
-fairly comprehensive overview.
-** [[https://github.com/punchagan/cinspect][cinspect]]
-*** Python
-~cinspect~ attempts to extend Python's built-in inspect module to add
-"inspection" for Python's builtins and other objects not written in Python.  It
-uses ~libclang~ to parse C-code and indexes it to allow looking up the source
-of the required objects, using an ~inspect~-like API.
-** [[https://github.com/recursecenter/blaggregator][Blaggregator]]
-*** Python, Django, Javascript, CSS
-A Django powered site that aggregates blog posts of Recursers from all over the
-web. I've added a bunch of features to it, and am the current maintainer.
-** [[https://github.com/org2blog/org2blog][org2blog]]
-*** Emacs-Lisp
-An ~Emacs~ minor mode for blogging to Wordpress that's loved by many users for it's ease of use.
-** [[https://github.com/punchagan/crumb][crumb]]
-*** Javascript, CSS
-An experimental Disqus-like commenting system that (ab)uses GitHub issues as the "database".
-** [[https://github.com/getnikola/nikola][Nikola]]
-*** Python
-A static site & blog generator that I use for my blog -- contributed a handful
-of features and bug fixes over time.
-* Education
-** BITS Pilani, Goa Campus, India
-*** Aug 2005 - Jun 2009
-/B.E.(Hons.), Electrical and Electronics/, GPA: 8.31/10
+** [[https://github.com/woofers/woofers3d][Woofers3D]]
+*** Java
+A 3D game API designed to be effortless and simple to use.
+Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Model Importing.
+** [[https://github.com/woofers/whale][Whale]]
+*** Haxe
+Dodge eels and lobsters as they attempt to ruin your day.
+/Whale/ is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
+** [[https://github.com/woofers/kangaroo-country][Kangaroo Country]]
+*** Actionscript 3
+Play as two kangaroos trying to traverse the outback.
+/Kangaroo Country/ is a 2D game built built in Actionscrpt 3 for Programming 12. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
+** [[https://github.com/woofers/fox-hole][Fox Hole]]
+*** Javascript
+Run through fox holes sneaking past robot crocodiles.
+/Fox/ is a 2D game built in 2014 utilizing [[https://phaser.io/][Phaser]].
 * Skills
-  - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
-  - Have worked with :: Lua, Torch, Caffe, PySpark, R, Octave, Go, C, Elm, Bash, LaTeX, Mercurial
+  - Experience working with Java, Haxe, SQL, Git and Javascript
+  - Ability to quickly adapt to new tools, work-flow and procedures
+  -
+* Experience
+** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
+*** June 2017 - October 2017
+/*Sidney, BC*/
+- Prepare food orders quickly and accurately using the appropriate procedures.
+- Ensure cleanliness and food safety within the restaurant.
+- Manage inventory
+- Follow proper procedures to ensure kitchen cleanliness throughout the day.
+* Education
+** University of Victoria, Victoria, BC
+*** Sept 2017 - present
+/BSc, Computer Science/
+
+First year completed in April 2018
+
+Expecting Graduation in 2021
+
+
+
+
+ /*Courses*/
+
+
+ - *CSC 110*
+ - *CSC 106*
+ - *CSC 115*
+ - *MATH 100*
