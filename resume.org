@@ -1,13 +1,14 @@
 
 
+# Empty Title to Overide Default org-mode Header
 #+Title:
 #+Author:
 #+Date:
-#+OPTIONS: toc:nil H:10 tex:t
+
+#+OPTIONS: toc:n H:10 tex:t
 #+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
-#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
@@ -38,10 +39,10 @@ Run through fox holes sneaking past robot crocodiles.
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
-/*Sidney, BC*/
+*Sidney, BC*
 - Prepare food orders quickly and accurately using the appropriate procedures.
 - Ensure cleanliness and food safety within the restaurant.
-- Manage inventory
+- Manage inventory and consolodate inventory in dry and wet storage.
 - Follow proper procedures to ensure kitchen cleanliness throughout the day.
 * Education
 ** University of Victoria, Victoria, BC
@@ -55,10 +56,10 @@ Expecting Graduation in 2021
 
 
 
- /*Courses*/
+ *Courses*
 
 
- - *CSC 110*
- - *CSC 106*
- - *CSC 115*
- - *MATH 100*
+ - /CSC 110~
+ - /CSC 106/
+ - /CSC 115/
+ - /MATH 100/

@@ -3,15 +3,16 @@
 % Attribution-NonCommercial-ShareAlike License. To view a copy of this license,
 % visit http://creativecommons.org/licenses/by-nc-sa/1.0/ or send a letter to
 % Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
-% This file is adapted from Jesse Luehrs resume at
+% This file is adapted from  Puneeth Chaganti's resume at
+% https://github.com/punchagan/resume/blob/master/mycv.sty
+% which is adapted from Jesse Luehrs' resume at
 % https://github.com/doy/resume/blob/master/resume.tex
 
-% <<< packages
+%% Packages
 \RequirePackage{latexsym,amsmath,amssymb,charter,color,calc,hyperref,titlesec}
 \RequirePackage[empty]{fullpage}
-% >>>
 
-% <<< dimensions/margins
+%% Dimensions & Margins
 \raggedbottom
 \raggedright
 \setlength{\tabcolsep}{0in}
@@ -21,17 +22,14 @@
 \addtolength{\topmargin}{-0.4in}
 \addtolength{\textheight}{1in}
 
-% >>>
-
-% <<< other definitions
+% Color definitions
 \definecolor{my-gray}{gray}{0.90}
 \definecolor{url-gray}{gray}{0.25}
 \definecolor{apricot}{rgb}{0.98, 0.81, 0.69}
 \definecolor{charcoal}{rgb}{0.21, 0.27, 0.31}
 \definecolor{floralwhite}{rgb}{1.0, 0.98, 0.94}
-% >>>
 
-%% Document header
+%% Document Header
 \newcommand{\resheader}[6]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
     #3 & \textbf{\LARGE #1} & #5\\
@@ -44,8 +42,7 @@
 %% Enumerations
 \def\labelitemi{--}
 
-%% Section Headings, etc.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Section Headings
 \renewcommand{\section}[1]{
   \@startsection{section}{1}{0pt}{0pt}{0pt}{\normalfont}*{}
   {
@@ -58,6 +55,7 @@
   }
 }
 
+%% Title
 \titleformat{\subsection} %command
             [block] %shape
             {\bfseries} %format
@@ -67,7 +65,6 @@
             [] %after-code
 
 \titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
-
 \titleformat{\subsubsection} %command
             [block] %shape
             {\vspace{-2.4ex}\small\it\raggedleft} %format
@@ -76,4 +73,9 @@
             {} %before-code
             [] %after-code
 \titlespacing{\subsubsection}{0pt}{0pt}{0pt}[{0pt}]
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Font
+\renewcommand{\familydefault}{\sfdefault}
+
+%% URL Colors
+\hypersetup{colorlinks=true, urlcolor={url-gray}}
