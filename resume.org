@@ -1,11 +1,14 @@
 
 
 # Empty Title to Overide Default org-mode Header
+# Jaxson Van Doorn
+# Adpated from Puneeth Chaganti at
+# https://github.com/punchagan/resume
 #+Title:
 #+Author:
 #+Date:
 
-#+OPTIONS: toc:n H:10 tex:t
+#+OPTIONS: toc:nil H:10 tex:t
 #+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
@@ -42,10 +45,10 @@ Run through fox holes sneaking past robot crocodiles.
 *Sidney, BC*
 - Prepare food orders quickly and accurately using the appropriate procedures.
 - Ensure cleanliness and food safety within the restaurant.
-- Manage inventory and consolodate inventory in dry and wet storage.
+- Manage inventory and consolidate inventory in dry and wet storage.
 - Follow proper procedures to ensure kitchen cleanliness throughout the day.
 * Education
-** University of Victoria, Victoria, BC
+** [[https://www.uvic.ca/][University of Victoria]], Victoria, BC
 *** Sept 2017 - present
 /BSc, Computer Science/
 
@@ -59,7 +62,7 @@ Expecting Graduation in 2021
  *Courses*
 
 
- - /CSC 110~
+ - /CSC 110/
  - /CSC 106/
  - /CSC 115/
  - /MATH 100/

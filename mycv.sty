@@ -28,6 +28,7 @@
 \definecolor{apricot}{rgb}{0.98, 0.81, 0.69}
 \definecolor{charcoal}{rgb}{0.21, 0.27, 0.31}
 \definecolor{floralwhite}{rgb}{1.0, 0.98, 0.94}
+\definecolor{pumpkin}{rgb}{1.0, 0.46, 0.09}
 
 %% Document Header
 \newcommand{\resheader}[6]{
@@ -78,4 +79,8 @@
 \renewcommand{\familydefault}{\sfdefault}
 
 %% URL Colors
-\hypersetup{colorlinks=true, urlcolor={url-gray}}
+\hypersetup{colorlinks=true, urlcolor={pumpkin}}
+
+%% Bold URLs
+\let\oldhref\href
+\renewcommand{\href}[2]{\oldhref{#1}{\bfseries#2}}
