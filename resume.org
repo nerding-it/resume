@@ -15,7 +15,8 @@
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-#+latex_compiler: lualatex
+#+LaTeX_HEADER: \setsansfont{Tex Gyre Adventor}
+#+LaTeX_HEADER: \setmonofont{Tex Gyre Adventor}
 
 {{{HEADER}}}
 
