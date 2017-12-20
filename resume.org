@@ -69,3 +69,10 @@ Techniques for reasoning about the efficiency of algorithms and data structures.
 ** MATH 100
 *** Calculus
 Covers limits, continuity, derivatives, and integrals.
+
+
+* NEAR-COMPLETION Left Justifty Name
+* TODO Remove Boxs
+* TODO Add Bullet (Orange)
+* TODO Print URL
+* TODO More Whitespace
