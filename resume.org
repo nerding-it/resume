@@ -17,11 +17,12 @@
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
 #+LaTeX_HEADER: \setsansfont{Tex Gyre Adventor}
 #+LaTeX_HEADER: \setmonofont{Tex Gyre Adventor}
+#+Latex_Header_Extra: \linespread{1.5}
 
 {{{HEADER}}}
 
 * Projects
-** Woofers3D
+** Woofers 3D
 ** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
 *** Java
 A 3D game API designed to be effortless and simple to use.
@@ -40,10 +41,10 @@ Play as two kangaroos trying to traverse the outback.
 ** [[https://github.com/woofers/fox-hole][github.com/woofers/fox-hole]]
 *** Javascript
 Run through fox holes sneaking past robot crocodiles.
-/Fox/ is a 2D game built in 2014 utilizing [[https://phaser.io/][Phaser]].
+/Fox/ is a 2D game built in 2014 utilizing the Phaser game framework.
 * Skills
-  - Experience working with Java, Haxe, SQL, Git and Javascript
-  - Ability to quickly adapt to new tools, work-flow and procedures
+  - Experience working with Java, Haxe, SQL, Assembly, Javascript and Git.
+  - Ability to quickly adapt to new tools, work-flow and procedures.
   - Comfortable with both Windows and Linux command line tools and ecosystems.
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
