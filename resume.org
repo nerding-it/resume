@@ -74,6 +74,7 @@ Covers limits, continuity, derivatives, and integrals.
 * NEAR-COMPLETION Left Justifty Name
 * DONE Remove Boxs
 CLOSED: [2017-12-19 Tue 20:38]
-* TODO Add Bullet (Orange)
+* DONE Add Bullet (Orange)
+CLOSED: [2017-12-19 Tue 21:09]
 * TODO Print URL
 * TODO More Whitespace
