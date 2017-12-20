@@ -9,6 +9,8 @@ Requires enumitem package for lists and fontspec for icons.
 
 Compiled with LuaTeX.
 
+![img](./screenshots/example.png "Resume")
+
 [![alt text](./screenshots/header_left.png "Jaxson Van Doorn")](https://woofers.github.io/)
 
 # Projects
