@@ -1,9 +1,9 @@
 
 # Resume
 
-*Source files for my resume using org-mode and LaTeX*
+**Source files for my resume using org-mode and LaTeX**
 
-Uses Emacs Org-mode with a custom LaTeX style sheet.  As a result it can be compiled in many formats such as LaTex PDF, Markdown and Bootstrap HTML.
+Uses *Emacs Org mode* with a custom *LaTeX* style sheet.  As a result it can be compiled in many formats such as *LaTex PDF*, *Markdown* and *Bootstrap* HTML.
 
 Requires enumitem package for lists and fontspec for icons.
 
@@ -11,7 +11,7 @@ Compiled with LuaTeX.
 
 # LaTeX PDF
 
-![img](./screenshots/example.png "Resume")
+[![alt text](./screenshots/example.png "Resume")](./latex/resume.pdf)
 
 # Markdown
 
