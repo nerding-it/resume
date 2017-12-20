@@ -1,12 +1,15 @@
 
 # Resume
 
-A repository for my resume.
-Uses Emacs Org-mode with a custom LaTeX style sheet.  As a result it can be compiled in many formats such as LaTex PDF, Markdown and Bootstrap HTML.
-Requires enumitem package for lists and fontspec for icons.
-Compiled with LuaTeX
+*Source files for my resume using org-mode and LaTeX*
 
-# Jaxson Van Doorn
+Uses Emacs Org-mode with a custom LaTeX style sheet.  As a result it can be compiled in many formats such as LaTex PDF, Markdown and Bootstrap HTML.
+
+Requires enumitem package for lists and fontspec for icons.
+
+Compiled with LuaTeX.
+
+![img](./screenshots/header.png "Jaxson Van Doorn")
 
 # Projects
 
