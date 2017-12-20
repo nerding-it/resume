@@ -30,11 +30,14 @@
 \definecolor{floralwhite}{rgb}{1.0, 0.98, 0.94}
 \definecolor{pumpkin}{rgb}{1.0, 0.46, 0.09}
 
+% URL
+\def\url#1{\color{pumpkin}\expandafter\string\csname#1\endcsname\color{black}}
+
 %% Document Header
 \newcommand{\resheader}[6]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
-    \textbf{\LARGE #1}                   &  \faComment #3 &    \faHome #5\\
-    \faGlobe \hspace{0.03cm} \url{#2}    &   \faPhone #4  &     #6\\
+    \textbf{\LARGE #1}                   &  \faComment #3               &    \faHome #5\\
+    \faGlobe \hspace{0.03cm} \href{#2}{#2}    &   \faPhone #4                &             #6\\
     \end{tabular*}
     \\
     \vspace{0.1in}
@@ -48,13 +51,13 @@
   \@startsection{section}{1}{0pt}{0pt}{0pt}{\normalfont}*{}
   {
 
-    \large \color{pumpkin} {
-      \faCaretDown
-      \color{black}
+    \large \color{black} {
       \begin{minipage}
         {\textwidth-0.175in}
-        {\hspace{0.3ex}\textbf{#1 \vphantom{p\^{E}}}}
+
+        {\textbf{#1 \color{pumpkin} \faCaretDown \vphantom{p\^{E}}}}
       \end{minipage}
+
     }
   }
 }
@@ -88,7 +91,7 @@
 \renewcommand{\familydefault}{\sfdefault}
 
 %% URL Colors
-\hypersetup{colorlinks=true, urlcolor={black}}
+\hypersetup{colorlinks=true, urlcolor={pumpkin}}
 
 %% Bold URLs
 \let\oldhref\href
