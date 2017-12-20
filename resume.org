@@ -15,6 +15,7 @@
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+#+latex_compiler: lualatex
 
 {{{HEADER}}}
 
@@ -48,20 +49,13 @@ Run through fox holes sneaking past robot crocodiles.
 - Manage inventory and consolidate inventory in dry and wet storage.
 - Follow proper procedures to ensure kitchen cleanliness throughout the day.
 * Education
-** [[https://www.uvic.ca/][University of Victoria]], Victoria, BC
+** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
 *** Sept 2017 - present
-/BSc, Computer Science/
+*Victoria, BC*
 
-First year completed in April 2018
-
-Expecting Graduation in 2021
-
-
-
-
- *Courses*
-
-
+- First year completed in April 2018
+- Expecting Graduation in 2021
+- *Completed Courses*
  - /CSC 110/
  - /CSC 106/
  - /CSC 115/
