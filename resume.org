@@ -60,17 +60,3 @@ Run through fox holes sneaking past robot crocodiles.
 *Victoria, BC*
 - First year completed in April 2018
 - Expecting Graduation in 2021
-** [[https://www.uvic.ca/][Completed Courses]]
-#+BEGIN_LaTeX latex
-\vspace{0.15cm}
-#+END_LaTeX
-** CSC 106
-*** SQL and Assembly
-Course focused on interdisciplinary aspects and
-emerging topics in computer science practice.
-** CSC 115
-*** Java
-Techniques for reasoning about the efficiency of algorithms and data structures.
-** MATH 100
-*** Calculus
-Covers limits, continuity, derivatives, and integrals.
