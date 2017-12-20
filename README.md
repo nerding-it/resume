@@ -9,7 +9,11 @@ Requires enumitem package for lists and fontspec for icons.
 
 Compiled with LuaTeX.
 
+# LaTeX PDF
+
 ![img](./screenshots/example.png "Resume")
+
+# Markdown
 
 [![alt text](./screenshots/header_left.png "Jaxson Van Doorn")](https://woofers.github.io/)
 
