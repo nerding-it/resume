@@ -11,7 +11,7 @@ Compiled with LuaTeX.
 
 # LaTeX PDF
 
-[![alt text](./screenshots/example.png "Resume")](./latex/resume.pdf)
+[![alt text](./screenshots/example.png "Resume")](./examples/latex/resume.pdf)
 
 # Markdown
 
