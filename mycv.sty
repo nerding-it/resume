@@ -33,8 +33,8 @@
 %% Document Header
 \newcommand{\resheader}[6]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
-    \faComment #3 & \textbf{\LARGE #1} & \faHome #5\\
-    \faPhone #4 & \faGlobe \hspace{0.03cm} \url{#2}           & #6\\
+    \faComment #3   & \textbf{\LARGE #1} &       \faHome #5\\
+    \faPhone #4     & \faGlobe \hspace{0.03cm}   \url{#2} & #6\\
     \end{tabular*}
     \\
     \vspace{0.1in}
@@ -65,10 +65,11 @@
             {} %before-code
             [] %after-code
 
+%% Date
 \titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
 \titleformat{\subsubsection} %command
             [block] %shape
-            {\vspace{-2.4ex}\small\it\raggedleft} %format
+            {\vspace{-2.4ex}\bfseries\itshape\small\raggedleft} %format
             {} %label
             {0pt} %sep
             {} %before-code
@@ -79,8 +80,8 @@
 %% \renewcommand*\rmdefault{ptm}
 %% \renewcommand*\rmdefault{cmr}
 %% \renewcommand*\sfdefault{cmss}
-\renewcommand*\sfdefault{pag}
 %% \renewcommand*\sfdefault{phv}
+\renewcommand*\sfdefault{pag}
 \renewcommand{\familydefault}{\sfdefault}
 
 %% URL Colors

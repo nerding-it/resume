@@ -40,24 +40,32 @@ Run through fox holes sneaking past robot crocodiles.
 * Skills
   - Experience working with Java, Haxe, SQL, Git and Javascript
   - Ability to quickly adapt to new tools, work-flow and procedures
-  -
+  - Comfortable with both Windows and Linux command line tools and ecosystems.
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
 *Sidney, BC*
 - Prepare food orders quickly and accurately using the appropriate procedures.
-- Ensure cleanliness and food safety within the restaurant.
-- Manage inventory and consolidate inventory in dry and wet storage.
-- Follow proper procedures to ensure kitchen cleanliness throughout the day.
+- Follow proper procedures to ensure kitchen cleanliness and food safety.
+- Properly maintain and operate commercial grade kitchen equipment.
+- Restock and consolidate inventory in dry and wet storage.
 * Education
 ** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
-*** Sept 2017 - present
+*** Sept 2017 - Present
 *Victoria, BC*
-
 - First year completed in April 2018
 - Expecting Graduation in 2021
-- *Completed Courses*
- - /CSC 110/
- - /CSC 106/
- - /CSC 115/
- - /MATH 100/
+** [[https://www.uvic.ca/][Completed Courses]]
+#+BEGIN_LaTeX latex
+\vspace{0.15cm}
+#+END_LaTeX
+** CSC 106
+*** SQL and Assembly
+Course focused on interdisciplinary aspects and
+emerging topics in computer science practice.
+** CSC 115
+*** Java
+Techniques for reasoning about the efficiency of algorithms and data structures.
+** MATH 100
+*** Calculus
+Covers limits, continuity, derivatives, and integrals.
