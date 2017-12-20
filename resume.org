@@ -22,18 +22,22 @@
 
 * Projects
 ** [[https://github.com/woofers/woofers3d][Woofers3D]]
+** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
 *** Java
 A 3D game API designed to be effortless and simple to use.
 Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Model Importing.
 ** [[https://github.com/woofers/whale][Whale]]
+** [[https://github.com/woofers/whale][github.com/woofers/whale]]
 *** Haxe
 Dodge eels and lobsters as they attempt to ruin your day.
 /Whale/ is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
 ** [[https://github.com/woofers/kangaroo-country][Kangaroo Country]]
+** [[https://github.com/woofers/kangaroo-country][github.com/woofers/kangaroo-country]]
 *** Actionscript 3
 Play as two kangaroos trying to traverse the outback.
 /Kangaroo Country/ is a 2D game built built in Actionscrpt 3 for Programming 12. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
 ** [[https://github.com/woofers/fox-hole][Fox Hole]]
+** [[https://github.com/woofers/fox-hole][github.com/woofers/fox-hole]]
 *** Javascript
 Run through fox holes sneaking past robot crocodiles.
 /Fox/ is a 2D game built in 2014 utilizing [[https://phaser.io/][Phaser]].
@@ -71,10 +75,4 @@ Techniques for reasoning about the efficiency of algorithms and data structures.
 Covers limits, continuity, derivatives, and integrals.
 
 
-* NEAR-COMPLETION Left Justifty Name
-* DONE Remove Boxs
-CLOSED: [2017-12-19 Tue 20:38]
-* DONE Add Bullet (Orange)
-CLOSED: [2017-12-19 Tue 21:09]
-* TODO Print URL
 * TODO More Whitespace
