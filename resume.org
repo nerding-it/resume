@@ -15,8 +15,8 @@
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-#+LaTeX_HEADER: \setsansfont{TeX Gyre Adventor}
-#+LaTeX_HEADER: \setmonofont{TeX Gyre Adventor}
+#+LaTeX_HEADER: \setsansfont{Latin Modern Sans}
+#+LaTeX_HEADER: \setmonofont{Latin Modern Sans}
 #+Latex_Header_Extra: \linespread{1.75}
 
 {{{HEADER}}}
@@ -41,9 +41,9 @@
 Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance
 ** CSC 130
 *** Software Design
-Overview of web design and UX.
+Overview of web design patterns and techniques to improve user experience.
 ** CSC 106
-*** SQL and Assembly
+*** SQL and PEP8 Assembly
 Course focused on interdisciplinary aspects and
 emerging topics in computer science practice.
 ** CSC 115
@@ -88,7 +88,11 @@ Dodge eels and lobsters as they attempt to ruin your day.
 * References
 ** Chris McDonald
 *** Computer Science Teacher
+\faGlobe Saanich, BC
+
 \faComment [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
 ** Justine Bickford
-*** Restaurant Manager
+*** Restaurant Manager woof
+\faGlobe Saanich, BC
+
 \faPhone   [[link][250 544 2630]]
