@@ -49,11 +49,13 @@ emerging topics in computer science practice.
 ** CSC 115
 *** Java
 Techniques for reasoning about the efficiency of algorithms and data structures.
-
+* Personal Interests
+  - Photography
+  - Cooking
+  - 3D Graphics
 #+BEGIN_LaTeX latex
 \newpage
 #+END_LaTeX
-
 * Projects
 ** Woofers 3D
 ** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
@@ -80,19 +82,16 @@ Dodge eels and lobsters as they attempt to ruin your day.
 - Created branding for charity event
 - Designed promotional posters for charity fundraiser.
 
-* Personal Interests
-  - Photography
-  - Cooking
-  - 3D Graphics
-
 * References
 ** Chris McDonald
-*** Computer Science Teacher
-\faGlobe Saanich, BC
+\emph{Computer Science Teacher}
 
-\faComment [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
+\faGlobe    ‌  ‌ ‌ ‌‌Saanich, BC
+
+\faComment  ‌  ‌ [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
 ** Justine Bickford
-*** Restaurant Manager
-\faGlobe Saanich, BC
+\emph{Restaurant Manager}
 
-\faPhone   [[link][250 544 2630]]
+\faGlobe    ‌   ‌ ‌‌‌‌‌Saanich, BC
+
+\faPhone  ‌  ‌ ‌‌[[link][250 544 2630]]
