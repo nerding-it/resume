@@ -17,9 +17,42 @@
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
 #+LaTeX_HEADER: \setsansfont{TeX Gyre Adventor}
 #+LaTeX_HEADER: \setmonofont{TeX Gyre Adventor}
-#+Latex_Header_Extra: \linespread{1.5}
+#+Latex_Header_Extra: \linespread{1.75}
 
 {{{HEADER}}}
+
+* Skills
+  - Experience debugging and troubleshooting both Linux, Windows and MacOS platforms.
+  - Comfortable with software suits such as Microsoft Office and Adobe Creative Suite.
+  - Self motivated and enjoy interacting and helping people.
+  - Strong technical problem solving skills.
+  - Willingness to learn.
+  -
+
+* Education
+** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
+*** Sept 2017 - Present
+*Victoria, BC*
+- First year will be completed in April 2018
+- Expecting Graduation in 2021
+* Completed Courses
+** CSC 230
+*** AVR Assembly
+Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance
+** CSC 130
+*** Software Design
+Overview of web design and UX.
+** CSC 106
+*** SQL and Assembly
+Course focused on interdisciplinary aspects and
+emerging topics in computer science practice.
+** CSC 115
+*** Java
+Techniques for reasoning about the efficiency of algorithms and data structures.
+
+#+BEGIN_LaTeX latex
+\newpage
+#+END_LaTeX
 
 * Projects
 ** Woofers 3D
@@ -32,60 +65,30 @@ Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Mode
 *** Haxe
 Dodge eels and lobsters as they attempt to ruin your day.
 /Whale/ is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
-** Kangaroo Country
-** [[https://github.com/woofers/kangaroo-country][github.com/woofers/kangaroo-country]]
-*** Actionscript 3
-Play as two kangaroos trying to traverse the outback.
-/Kangaroo Country/ is a 2D game built built in Actionscrpt 3 for Programming 12. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
-** Fox Hole
-** [[https://github.com/woofers/fox-hole][github.com/woofers/fox-hole]]
-*** Javascript
-Run through fox holes sneaking past robot crocodiles.
-/Fox/ is a 2D game built in 2014 utilizing the Phaser game framework.
-* Skills
-  - Experience debugging and troubleshooting both Linux, Windows and MacOS platforms
-  - Comfortable with software suits such as Microsoft Office and Adobe Creative Suite.
-  - Self motivated and enjoy interacting and helping people.
-  - Strong technical problem solving skills
-  - Willingness to learn
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
-*Sidney, BC*
+\emph{Sidney, BC}
 - Prepare food orders quickly and accurately using the appropriate procedures.
 - Follow proper procedures to ensure kitchen cleanliness and food safety.
 - Properly maintain and operate commercial grade kitchen equipment.
 - Restock and consolidate inventory in dry and wet storage.
-* Education
-** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
-*** Sept 2017 - Present
-*Victoria, BC*
-- First year will be completed in April 2018
-- Expecting Graduation in 2021
- #+BEGIN_LaTeX latex
- \vspace{0.15cm}
- #+END_LaTeX
 
-** CSC 230
-*** AVR Assembly
-Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance
-** CSC 130
-*** Software Design
-Overview of web design and UX.
-** MATH 100 and Math 101
-*** Calculus
-Covers limits, continuity, derivatives, and integration.
-** CSC 106
-*** SQL and Assembly
-Course focused on interdisciplinary aspects and
-emerging topics in computer science practice.
-** CSC 115
-*** Java
-Techniques for reasoning about the efficiency of algorithms and data structures.
+** Volunteer Graphic Designer at [[http://www.msf.org/][Médecins Sans Frontières]]
+*** June 2014 - July 2014
+\emph{Brentwood Bay, BC}
+- Created branding for charity event
+- Designed promotional posters for charity fundraiser.
+
+* Personal Interests
+  - Photography
+  - Cooking
+  - 3D Graphics
+
 * References
 ** Chris McDonald
 *** Computer Science Teacher
 \faComment [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
 ** Justine Bickford
 *** Restaurant Manager
-\faPhone   250 544 2630
+\faPhone   [[link][250 544 2630]]
