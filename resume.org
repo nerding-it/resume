@@ -27,7 +27,8 @@
   - Self motivated and enjoy interacting and helping people.
   - Strong technical problem solving skills.
   - Willingness to learn.
-  -
+  - Fluent in French.
+  - Strong people skills.
 
 * Education
 ** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
@@ -38,14 +39,13 @@
 * Completed Courses
 ** CSC 230
 *** AVR Assembly
-Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance
+Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance.
 ** CSC 130
 *** Software Design
-Overview of web design patterns and techniques to improve user experience.
+Overview of web design patterns and techniques to improve overall user experience.
 ** CSC 106
 *** SQL and PEP8 Assembly
-Course focused on interdisciplinary aspects and
-emerging topics in computer science practice.
+Course focused on interdisciplinary aspects and emerging topics in computer science practice.
 ** CSC 115
 *** Java
 Techniques for reasoning about the efficiency of algorithms and data structures.
