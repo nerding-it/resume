@@ -92,7 +92,7 @@ Dodge eels and lobsters as they attempt to ruin your day.
 
 \faComment [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
 ** Justine Bickford
-*** Restaurant Manager woof
+*** Restaurant Manager
 \faGlobe Saanich, BC
 
 \faPhone   [[link][250 544 2630]]
