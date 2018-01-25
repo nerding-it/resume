@@ -15,8 +15,8 @@
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-#+LaTeX_HEADER: \setsansfont{Tex Gyre Adventor}
-#+LaTeX_HEADER: \setmonofont{Tex Gyre Adventor}
+#+LaTeX_HEADER: \setsansfont{TeX Gyre Adventor}
+#+LaTeX_HEADER: \setmonofont{TeX Gyre Adventor}
 #+Latex_Header_Extra: \linespread{1.5}
 
 {{{HEADER}}}
@@ -43,9 +43,11 @@ Play as two kangaroos trying to traverse the outback.
 Run through fox holes sneaking past robot crocodiles.
 /Fox/ is a 2D game built in 2014 utilizing the Phaser game framework.
 * Skills
-  - Experience working with Java, Haxe, SQL, Assembly, Javascript and Git.
-  - Ability to quickly adapt to new tools, work-flow and procedures.
-  - Comfortable with both Windows and Linux command line tools and ecosystems.
+  - Experience debugging and troubleshooting both Linux, Windows and MacOS platforms
+  - Comfortable with software suits such as Microsoft Office and Adobe Creative Suite.
+  - Self motivated and enjoy interacting and helping people.
+  - Strong technical problem solving skills
+  - Willingness to learn
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
@@ -58,5 +60,32 @@ Run through fox holes sneaking past robot crocodiles.
 ** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
 *** Sept 2017 - Present
 *Victoria, BC*
-- First year completed in April 2018
+- First year will be completed in April 2018
 - Expecting Graduation in 2021
+ #+BEGIN_LaTeX latex
+ \vspace{0.15cm}
+ #+END_LaTeX
+
+** CSC 230
+*** AVR Assembly
+Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance
+** CSC 130
+*** Software Design
+Overview of web design and UX.
+** MATH 100 and Math 101
+*** Calculus
+Covers limits, continuity, derivatives, and integration.
+** CSC 106
+*** SQL and Assembly
+Course focused on interdisciplinary aspects and
+emerging topics in computer science practice.
+** CSC 115
+*** Java
+Techniques for reasoning about the efficiency of algorithms and data structures.
+* References
+** Chris McDonald
+*** Computer Science Teacher
+\faComment [[mailto:cmcdonald@sd63.bc.ca][cmcdonald@sd63.bc.ca]]
+** Justine Bickford
+*** Restaurant Manager
+\faPhone   250 544 2630
