@@ -24,7 +24,7 @@
 * Skills
   - Experience debugging and troubleshooting Linux, Windows and MacOS platforms.
   - Comfortable with software suites such as Microsoft Office and Adobe Creative Suite.
-  - Self motivated and enjoy interacting and helping people.
+  - Self motivated and enjoy interacting and helping others.
   - Strong technical problem solving skills.
   - Willingness to learn.
   - Fluent in French.
@@ -66,7 +66,7 @@ Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Mode
 ** [[https://github.com/woofers/whale][github.com/woofers/whale]]
 *** Haxe
 Dodge eels and lobsters as they attempt to ruin your day.
-/Whale/ is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
+/Whale/ is a 2D sidescrolling game for Android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
@@ -79,7 +79,7 @@ Dodge eels and lobsters as they attempt to ruin your day.
 ** Volunteer Graphic Designer at [[http://www.msf.org/][Médecins Sans Frontières]]
 *** June 2014 - July 2014
 \emph{Brentwood Bay, BC}
-- Created branding for charity event
+- Created branding for charity event.
 - Designed promotional posters for charity fundraiser.
 
 * References
