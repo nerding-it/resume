@@ -14,12 +14,16 @@
 #+LaTeX_HEADER: \usepackage{mycv}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
-#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+#+Latex_Header: \usepackage{setspace}
+#+LaTeX_HEADER: \usepackage{relsize}
+#+LaTeX_HEADER: \usepackage{multicol}
 #+LaTeX_HEADER: \setsansfont{Latin Modern Sans}
 #+LaTeX_HEADER: \setmonofont{Latin Modern Sans}
-#+Latex_Header_Extra: \linespread{1.75}
+#+Latex_Header_Extra: \linespread{1.5}
 
 {{{HEADER}}}
+
+\relscale{1.15}
 
 * Skills
   - Experience debugging and troubleshooting Linux, Windows and MacOS platforms.
@@ -39,23 +43,23 @@
 * Completed Courses
 ** CSC 230
 *** AVR Assembly
-Covers architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance.
+Architecture of computer systems along with concepts such as CPU, memory, buses, I/O, cache, instruction sets, interrupt processing, pipelining, performance.
 ** CSC 130
 *** Software Design
 Overview of web design patterns and techniques to improve overall user experience.
 ** CSC 106
 *** SQL and PEP8 Assembly
-Course focused on interdisciplinary aspects and emerging topics in computer science practice.
+Interdisciplinary aspects and emerging topics in computer science practice including cryptography and graph traversal algorithms.
 ** CSC 115
 *** Java
-Techniques for reasoning about the efficiency of algorithms and data structures.
+Techniques for reasoning about the efficiency of algorithms and data structures in object orientied programming.
+#+BEGIN_LaTeX latex
+\newpage
+#+END_LaTeX
 * Personal Interests
   - Photography
   - Cooking
   - 3D Graphics
-#+BEGIN_LaTeX latex
-\newpage
-#+END_LaTeX
 * Projects
 ** Woofers 3D
 ** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
@@ -83,15 +87,24 @@ Dodge eels and lobsters as they attempt to ruin your day.
 - Designed promotional posters for charity fundraiser.
 
 * References
-** Chris McDonald
-\emph{Computer Science Teacher}
 
-\faGlobe    ‌  ‌ ‌ ‌‌Saanich, BC
+#+BEGIN_LaTeX latex
+\setstretch{1.23}
+\begin{multicols}{2}
+  \text{Chris McDonald}
 
-\faComment  ‌  ‌ cmcdonald@sd63.bc.ca
-** Justine Bickford
-\emph{Restaurant Manager}
+  \emph{Computer Science Teacher}
 
-\faGlobe    ‌   ‌ ‌‌‌‌‌Saanich, BC
+  \faGlobe    ‌  ‌ ‌ ‌‌Saanich, BC
 
-\faPhone  ‌  ‌ 250 544 2630
+  \faComment     ‌‌  ‌ cmcdonald@sd63.bc.ca
+
+  \text{Justine Bickford}
+
+  \emph{Restaurant Manager}
+
+  \faGlobe    ‌   ‌ ‌‌‌‌‌Saanich, BC
+
+  \faPhone  ‌  ‌ 250 544 2630
+\end{multicols}
+#+END_LaTeX
