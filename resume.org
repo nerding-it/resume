@@ -19,7 +19,7 @@
 #+LaTeX_HEADER: \usepackage{multicol}
 #+LaTeX_HEADER: \setsansfont{Latin Modern Sans}
 #+LaTeX_HEADER: \setmonofont{Latin Modern Sans}
-#+Latex_Header_Extra: \linespread{1.5}
+#+Latex_Header_Extra: \linespread{1.4}
 
 {{{HEADER}}}
 
@@ -56,10 +56,6 @@ Techniques for reasoning about the efficiency of algorithms and data structures 
 #+BEGIN_LaTeX latex
 \newpage
 #+END_LaTeX
-* Personal Interests
-  - Photography
-  - Cooking
-  - 3D Graphics
 * Projects
 ** Woofers 3D
 ** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
@@ -71,6 +67,10 @@ Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Mode
 *** Haxe
 Dodge eels and lobsters as they attempt to ruin your day.
 /Whale/ is a 2D sidescrolling game for Android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
+* Personal Interests
+  - Photography
+  - Cooking
+  - 3D Graphics
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
@@ -89,7 +89,7 @@ Dodge eels and lobsters as they attempt to ruin your day.
 * References
 
 #+BEGIN_LaTeX latex
-\setstretch{1.23}
+\setstretch{1.5}
 \begin{multicols}{2}
   \text{Chris McDonald}
 
