@@ -31,17 +31,17 @@ Supports modern features such as ray tracing, chasing camera, states and 3D mode
 ** [[https://github.com/woofers/whale][github.com/woofers/whale]]
 *** Haxe
 Dodge eels and lobsters as they attempt to ruin your day.
-/Whale/ is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
+/Whale/ is a 2D side-scrolling game for Android with accelerometer controls.  Includes rich art, random level generation and score keeping.
 ** Kangaroo Country
 ** [[https://github.com/woofers/kangaroo-country][github.com/woofers/kangaroo-country]]
 *** Actionscript 3
 Play as two kangaroos trying to traverse the outback.
-/Kangaroo Country/ is a 2D game built built in Actionscrpt 3 for Programming 12. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
+/Kangaroo Country/ is a 2D game built built in Actionscript 3 from in roughly two weeks. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
 ** Fox Hole
 ** [[https://github.com/woofers/fox-hole][github.com/woofers/fox-hole]]
 *** Javascript
 Run through fox holes sneaking past robot crocodiles.
-/Fox/ is a 2D game built in 2014 utilizing the Phaser game framework.
+/Fox Hole/ is a 2D proof of concept game built in Javascript with Phaser. You play as a fox sneaking past enemy crocodiles using underground tunnels in order to save your brother. It features checkpoints and enemies complete with very basic AI.
 * Skills
   - Experience working with Java, Haxe, SQL, Assembly, Javascript and Git.
   - Ability to quickly adapt to new tools, work-flow and procedures.
