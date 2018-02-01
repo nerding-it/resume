@@ -15,8 +15,8 @@
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-#+LaTeX_HEADER: \setsansfont{TeX Gyre Adventor}
-#+LaTeX_HEADER: \setmonofont{TeX Gyre Adventor}
+#+LaTeX_HEADER: \setsansfont{Latin Modern Sans}
+#+LaTeX_HEADER: \setmonofont{Latin Modern Sans}
 #+Latex_Header_Extra: \linespread{1.5}
 
 {{{HEADER}}}
