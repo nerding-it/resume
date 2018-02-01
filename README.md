@@ -25,8 +25,7 @@ Compiled with LuaTeX.
 
 ### Java
 
-A 3D game API designed to be effortless and simple to use.
-Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Model Importing.
+*Woofers 3D* is a Java API that attempts to unify the of features Box2D and Bullet Physics into a simpler yet capable package that can be run on nearly any device via LibGDX. Supports modern features such as ray tracing, chasing camera, game states and 3D model importing.
 
 ## Whale
 
@@ -34,8 +33,7 @@ Supports modern features such as Ray Tracing, Chasing Camera, States and 3D Mode
 
 ### Haxe
 
-Dodge eels and lobsters as they attempt to ruin your day.
-*Whale* is a 2D sidescrolling game for android with accelerometer controls.  Includes rich art, random level gneration and score keeping.
+*Whale* is a 2D arcade style game built using HaxeFlixel. It features score tracking, level generation and responsive accelerometer controls. Game is fully completed and can be downloaded from the Google Play Store.
 
 ## Kangaroo Country
 
@@ -43,8 +41,7 @@ Dodge eels and lobsters as they attempt to ruin your day.
 
 ### Actionscript 3
 
-Play as two kangaroos trying to traverse the outback.
-*Kangaroo Country* is a 2D game built built in Actionscrpt 3 for Programming 12. Game features two fully completed levels. More levels can be easily added by using a Tile Map Editor.
+*Kangaroo Country* is a 2D side-scrolling game built in Actionscrpt 3. Game features two fully completed levels where you play as two distinct characters in-order to solve platforming puzzles. As levels are imported from JSON based Tile Editor files, more levels can be dynamically added and created by others.
 
 ## Fox Hole
 
@@ -52,14 +49,13 @@ Play as two kangaroos trying to traverse the outback.
 
 ### Javascript
 
-Run through fox holes sneaking past robot crocodiles.
-*Fox* is a 2D game built in 2014 utilizing the Phaser game framework.
+*Fox Hole* is a 2D proof of concept game built in Javascript with Phaser. You play as a fox sneaking past enemy crocodiles using underground tunnels in order to save your brother. It features checkpoints and enemies complete with very basic AI.
 
 # Skills
 
--   Experience working with Java, Haxe, SQL, Assembly, Javascript and Git.
+-   Experience working with Java, Haxe, Javascript and Git.
 -   Ability to quickly adapt to new tools, work-flow and procedures.
--   Comfortable with both Windows and Linux command line tools and ecosystems.
+-   Comfortable with both Windows, Linux and MacOS command line tools and ecosystems.
 
 # Experience
 
@@ -69,7 +65,6 @@ Run through fox holes sneaking past robot crocodiles.
 
 **Sidney, BC**
 -   Prepare food orders quickly and accurately using the appropriate procedures.
--   Follow proper procedures to ensure kitchen cleanliness and food safety.
 -   Properly maintain and operate commercial grade kitchen equipment.
 -   Restock and consolidate inventory in dry and wet storage.
 
@@ -80,5 +75,4 @@ Run through fox holes sneaking past robot crocodiles.
 ### Sept 2017 - Present
 
 **Victoria, BC**
--   First year completed in April 2018
 -   Expecting Graduation in 2021
