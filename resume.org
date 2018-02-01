@@ -41,18 +41,16 @@
 * Skills
   - Experience working with Java, Haxe, SQL, Assembly, Javascript and Git.
   - Ability to quickly adapt to new tools, work-flow and procedures.
-  - Comfortable with both Windows and Linux command line tools and ecosystems.
+  - Comfortable with both Windows, Linux and MacOS command line tools and ecosystems.
 * Experience
 ** Line Cook at [[https://www.spitfiregrill.ca/][Spitfire Grill]]
 *** June 2017 - October 2017
 *Sidney, BC*
 - Prepare food orders quickly and accurately using the appropriate procedures.
-- Follow proper procedures to ensure kitchen cleanliness and food safety.
 - Properly maintain and operate commercial grade kitchen equipment.
 - Restock and consolidate inventory in dry and wet storage.
 * Education
 ** BSc, Computer Science at [[https://www.uvic.ca/][University of Victoria]]
 *** Sept 2017 - Present
 *Victoria, BC*
-- First year completed in April 2018
 - Expecting Graduation in 2021
