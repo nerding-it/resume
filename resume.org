@@ -25,8 +25,8 @@
 ** Woofers 3D
 ** [[https://github.com/woofers/woofers3d][github.com/woofers/woofers3d]]
 *** Java
-Woofers 3D is 3D game API designed to be effortless and simple to use.
-Supports modern features such as ray tracing, chasing camera, states and 3D model importing by unifying Bullet, Box2D and OpenGL into open cohesive package.
+Woofers 3D is a game API designed to be effortless and simple to use.
+Supports modern features such as ray tracing, chasing camera, states and 3D model importing by unifying Bullet, Box2D and OpenGL into one cohesive package.
 ** Whale
 ** [[https://github.com/woofers/whale][github.com/woofers/whale]]
 *** Haxe
