@@ -39,7 +39,7 @@
 *** Javascript
 /Fox Hole/ is a 2D proof of concept game built in Javascript with Phaser. You play as a fox sneaking past enemy crocodiles using underground tunnels in order to save your brother. It features checkpoints and enemies complete with very basic AI.
 * Skills
-  - Experience working with Java, Haxe, Javascript and Git.
+  - Experience working with Java, Haxe, Actionscript 3, SQL and Git.
   - Ability to quickly adapt to new tools, work-flow and procedures.
   - Comfortable with both Windows, Linux and MacOS commandline tools and ecosystems.
 * Experience
