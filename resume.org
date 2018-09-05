@@ -1,19 +1,14 @@
 
-
 # Jaxson Van Doorn
 # Adpated from Puneeth Chaganti at
 # https://github.com/punchagan/resume
 
 #+OPTIONS: toc:nil H:10 tex:t
-#+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \usepackage{config}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
-#+LaTeX_HEADER: \usepackage{enumitem}
-#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-#+LaTeX_HEADER: \setsansfont{Latin Modern Sans}
-#+LaTeX_HEADER: \setmonofont{Latin Modern Sans}
-#+Latex_Header_Extra: \linespread{1.5}
+
 {{{HEADER}}}
 #+INCLUDE: projects.org
 #+INCLUDE: skills.org
