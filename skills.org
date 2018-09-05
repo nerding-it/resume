@@ -1,0 +1,4 @@
+* Skills
+  - Experience working with Java, Haxe, Actionscript 3, SQL and Git.
+  - Ability to quickly adapt to new tools, work-flow and procedures.
+  - Comfortable with both Windows, Linux and MacOS commandline tools and ecosystems.
