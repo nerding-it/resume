@@ -31,3 +31,5 @@ tramp
 *.nav
 *.snm
 *.vrb
+/resume.tex
+/resume.pdf
