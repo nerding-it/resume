@@ -1,7 +1,7 @@
 #+MACRO: FIRST     Jaxson
 #+MACRO: LAST      Van Doorn
 #+MACRO: FULL      {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG      woofers.github.io
+#+MACRO: BLOG      jaxson.vandoorn.ca
 #+MACRO: EMAIL     jaxson.vandoorn@gmail.com
 #+MACRO: PHONE     250-508-2275
 #+MACRO: CODE      https://github.com/woofers
