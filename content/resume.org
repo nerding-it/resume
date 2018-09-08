@@ -5,8 +5,8 @@
 
 #+OPTIONS: toc:nil H:10 tex:t
 #+INCLUDE: personal-info.org
-#+LaTeX_HEADER: \usepackage{mycv}
-#+LaTeX_HEADER: \usepackage{config}
+#+LaTeX_HEADER: \usepackage{../src/mycv}
+#+LaTeX_HEADER: \usepackage{../src/config}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 
 {{{HEADER}}}
