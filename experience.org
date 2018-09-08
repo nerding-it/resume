@@ -1,3 +1,6 @@
+#+BEGIN_EXPORT Latex
+\renewcommand{\href}[2]{\changeurlcolor{pumpkin}\oldhref{#1}{#2}}
+#+END_EXPORT
 * Experience
 ** Line Cook at [[https://spitfiregrill.ca][Spitfire Grill]]
 *** June 2017 - October 2017
