@@ -20,7 +20,8 @@
   titlesec,
   fontspec,
   fontawesome,
-  enumitem
+  enumitem,
+  xstring
 }
 \RequirePackage[empty]{fullpage}
 
@@ -92,7 +93,10 @@
 
 %% URL Colors
 \hypersetup{colorlinks=true, urlcolor={pumpkin}}
+\newcommand{\changeurlcolor}[1]{\hypersetup{urlcolor=#1}}
 
 %% Bold URLs
 \let\oldhref\href
-\renewcommand{\href}[2]{\oldhref{#1}{\bfseries{\textit#2}}}
+\renewcommand{\href}[2]{\changeurlcolor{black}\oldhref{#1}{#2}
+                        \changeurlcolor{pumpkin} \newline
+                        \oldhref{#1}{{\bfseries{\textit{\StrSubstitute{#1}{https://}{}}}}}}
