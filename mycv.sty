@@ -42,7 +42,7 @@
 \newcommand{\resheader}[7]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}ll}
     \textbf{\huge #1}                                     & \large \faComment #3 & \large \faHome #5\\
-    \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \href{#2}{#2} & \large \faPhone   #4 & \hspace{0.29cm} \large        #6 \\
+    \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone   #4 & \hspace{0.29cm} \large        #6 \\
     \hspace{0.15cm}  & \hspace{0.15cm} & \hspace{0.29cm} \large #7\\
     \end{tabular*}
     \\
@@ -94,9 +94,10 @@
 %% URL Colors
 \hypersetup{colorlinks=true, urlcolor={pumpkin}}
 \newcommand{\changeurlcolor}[1]{\hypersetup{urlcolor=#1}}
+\newcommand{\boldurl}[2]{\oldhref{#1}{\bfseries{\textit{#2}}}}
 
 %% Bold URLs
 \let\oldhref\href
 \renewcommand{\href}[2]{\changeurlcolor{black}\oldhref{#1}{#2}
                         \changeurlcolor{pumpkin} \newline
-                        \oldhref{#1}{{\bfseries{\textit{\StrSubstitute{#1}{https://}{}}}}}}
+                        \oldhref{#1}{\StrSubstitute{#1}{https://}{}}}
