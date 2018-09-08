@@ -95,6 +95,8 @@
 \hypersetup{colorlinks=true, urlcolor={pumpkin}}
 \newcommand{\changeurlcolor}[1]{\hypersetup{urlcolor=#1}}
 \newcommand{\boldurl}[2]{\oldhref{#1}{\bfseries{\textit{#2}}}}
+\newcommand{\toggleurlstyle}{\renewcommand{\href}[2]{\changeurlcolor{pumpkin}\oldhref{#1}{#2}}}
+
 
 %% Bold URLs
 \let\oldhref\href

@@ -1,5 +1,5 @@
 #+BEGIN_EXPORT Latex
-\renewcommand{\href}[2]{\changeurlcolor{pumpkin}\oldhref{#1}{#2}}
+\toggleurlstyle
 #+END_EXPORT
 * Experience
 ** Line Cook at [[https://spitfiregrill.ca][Spitfire Grill]]
