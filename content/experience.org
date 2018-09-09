@@ -1,6 +1,4 @@
-#+BEGIN_EXPORT Latex
-\toggleurlstyle
-#+END_EXPORT
+#+LaTeX: \toggleurlstyle
 * Experience
 ** Line Cook at [[https://spitfiregrill.ca][Spitfire Grill]]
 *** June 2017 - October 2017
