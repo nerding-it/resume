@@ -21,7 +21,9 @@
   fontspec,
   fontawesome,
   enumitem,
-  xstring
+  xstring,
+  makecell,
+  array
 }
 \RequirePackage[empty]{fullpage}
 
@@ -38,14 +40,21 @@
 % Color definitions
 \definecolor{pumpkin}{rgb}{1.0, 0.46, 0.09}
 
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
 %% Document Header
+\renewcommand{\arraystretch}{0.4}
 \newcommand{\resheader}[7]{
-    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}ll}
-    \textbf{\huge #1}                                     & \large \faComment #3 & \large \faHome #5\\
-    \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone   #4 & \hspace{0.29cm} \large        #6 \\
-    \hspace{0.15cm}  & \hspace{0.15cm} & \hspace{0.29cm} \large #7\\
-    \end{tabular*}
-    \\
+    \begin{tabular}{L{13.9cm} R{4.65cm}}
+      \begin{tabular}{L{8.10cm} L{5.40cm}}
+        \\[2pt]
+        \textbf{\huge #1} & \large \faEnvelope #3 & \\
+        \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone #4
+      \end{tabular} &
+      \large \makecell[tr]{\faHome \hspace{0.03cm} #5 \\ #6 \\ #7 \\}
+    \end{tabular}
 }
 
 %% Enumerations
