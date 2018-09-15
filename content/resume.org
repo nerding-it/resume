@@ -8,8 +8,7 @@
 #+LaTeX_HEADER: \usepackage{../src/config}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]
 
-#+INCLUDE: personal-info.org
-{{{HEADER}}}
+#+INCLUDE: header.org
 #+INCLUDE: projects.org
 #+INCLUDE: skills.org
 #+INCLUDE: experience.org
