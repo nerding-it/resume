@@ -1,3 +1,4 @@
+#+SLUG: /about/
 * Education
 ** BSc, Computer Science at [[https://uvic.ca][University of Victoria]]
 *** Sept 2017 - Present
