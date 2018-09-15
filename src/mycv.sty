@@ -23,7 +23,8 @@
   enumitem,
   xstring,
   makecell,
-  array
+  array,
+  graphicx
 }
 \RequirePackage[empty]{fullpage}
 
@@ -43,18 +44,24 @@
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\def\photo#1{\def\@photo{#1}}
 
 %% Document Header
 \renewcommand{\arraystretch}{0.4}
 \newcommand{\resheader}[7]{
-    \begin{tabular}{L{13.9cm} R{4.65cm}}
-      \begin{tabular}{L{8.10cm} L{5.40cm}}
-        \\[2pt]
-        \textbf{\huge #1} & \large \faEnvelope #3 & \\
-        \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone #4
-      \end{tabular} &
-      \large \makecell[tr]{\faHome \hspace{0.03cm} #5 \\ #6 \\ #7 \\}
-    \end{tabular}
+
+  \IfStrEq{\@photo}{}{}{\indent}
+  \begin{tabular}{L{13.9cm} R{4.65cm}}
+    \begin{tabular}{L{8.10cm} L{5.40cm}}
+      \\[2pt]
+      \textbf{\huge #1} & \large \faEnvelope #3 & \\
+      \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone #4
+    \end{tabular} &
+    \IfStrEq{\@photo}{}
+      {\large \makecell[tr]{\faHome \hspace{0.03cm} #5 \\ #6 \\ #7 \\}}
+      {\includegraphics[width=3cm]{\@photo} \vspace {-1.5cm}}
+  \end{tabular}
+  \IfStrEq{\@photo}{}{}{\\[25pt]}
 }
 
 %% Enumerations
