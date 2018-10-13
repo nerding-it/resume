@@ -7,22 +7,41 @@
 /Woofers 3D/ is a Java API that attempts to unify the features of Box2D and Bullet Physics into a simple yet capable package that can be run on nearly any device via LibGDX. Supports modern features such as ray tracing, chasing camera, game states and 3D model importing.
 #+LaTeX: \iffalse
 [[./images/woofers3d/1c.gif]]
+#+BEGIN_EXPORT html
+<a href='https://github.com/woofers/woofers3d' role='button'><i class="fa fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/woofers3d/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+#+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/whale][Whale]]
 *** Haxe
 /Whale/ is a 2D arcade style game built using HaxeFlixel. It features score tracking, level generation and responsive accelerometer controls. Game is fully completed and can be downloaded from the Google Play Store.
 #+LaTeX: \iffalse
 | [[./images/whale/4.png]] | [[./images/whale/2.png]] |
+#+BEGIN_EXPORT html
+<a href='whale/' role='button'><i class="fa fa-play-circle"></i> Play</a>
+<a href='https://play.google.com/store/apps/details?id=com.jaxson.whale&hl=en' role='button'><i class="fa fa-google"></i> Get it on Google Play</a>
+<a href='https://github.com/woofers/whale' role='button'><i class="fa fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/whale/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+#+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/kangaroo-country][Kangaroo Country]]
 *** Actionscript 3
 /Kangaroo Country/ is a 2D side-scrolling game built in Actionscrpt 3. Game features two fully completed levels where you play as two distinct characters in-order to solve platforming puzzles. As levels are imported from JSON based Tile Editor files, more levels can be dynamically added and created by others.
 #+LaTeX: \iffalse
 [[./images/kangaroo/2.png]]
+#+BEGIN_EXPORT html
+<a href='https://github.com/woofers/kangaroo-country' role='button'><i class="fa fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/kangaroo-country/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+#+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/fox-hole][Fox Hole]]
 *** Javascript
 /Fox Hole/ is a 2D proof of concept game built in Javascript with Phaser. You play as a fox sneaking past enemy crocodiles using underground tunnels in order to save your brother. It features checkpoints and enemies complete with very basic AI.
 #+LaTeX: \iffalse
 [[./images/fox/1.png]]
+#+BEGIN_EXPORT html
+<a href='fox-hole/' role='button'><i class="fa fa-play-circle"></i> Play</a>
+<a href='https://github.com/woofers/fox-hole' role='button'><i class="fa fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/fox-hole/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+#+END_EXPORT
 #+LaTeX: \fi
