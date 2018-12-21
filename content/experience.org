@@ -1,8 +1,8 @@
 #+LaTeX: \toggleurlstyle
 * Experience
-** Line Cook at [[https://spitfiregrill.ca][Spitfire Grill]]
-*** June 2017 - October 2017
-*Sidney, BC*
-- Prepare food orders quickly and accurately using the appropriate procedures.
-- Properly maintain and operate commercial grade kitchen equipment.
-- Restock and consolidate inventory in dry and wet storage.
+** Software Developer Co-op at [[https://ftsinc.com][FTS Inc.]]
+*** April 2018 - December 2018
+*Victoria, BC*
+- Develop new features and services for web applications and APIs communicating with remote weather stations.
+- Configure, manage and version software projects using automated deployment tools.
+- Integrate Open Source tools used to configure IoT devices with existing software.
