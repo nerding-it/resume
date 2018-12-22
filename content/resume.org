@@ -1,9 +1,10 @@
 
-# Jaxson Van Doorn
+#+Title: Resume
+#+Author: Jaxson Van Doorn
 # Adpated from Puneeth Chaganti at
 # https://github.com/punchagan/resume
 
-#+OPTIONS: toc:nil H:10 tex:t
+#+OPTIONS: toc:nil title:nil H:10 tex:t
 #+LaTeX_HEADER: \usepackage{../src/mycv}
 #+LaTeX_HEADER: \usepackage{../src/config}
 #+LaTeX_CLASS_OPTIONS: [letterpaper]

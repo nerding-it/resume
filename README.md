@@ -15,37 +15,39 @@ Compiled with XeLaTeX.
 
 # Markdown
 
-[![alt text](./screenshots/header_left.png "Jaxson Van Doorn")](https://woofers.github.io/)
+<p align="center">
+  <a href="https://jaxson.vandoorn.ca">
+    <img src ="screenshots/header_left.png" alt="Jaxson Van Doorn" />
+  </a>
+</p>
 
 # Projects
 
-## Woofers 3D
 
-## [github.com/woofers/woofers3d](https://github.com/woofers/woofers3d)
+## [Woofers 3D](https://github.com/woofers/woofers3d)
+
 
 ### Java
 
-*Woofers 3D* is a Java API that attempts to unify the of features Box2D and Bullet Physics into a simpler yet capable package that can be run on nearly any device via LibGDX. Supports modern features such as ray tracing, chasing camera, game states and 3D model importing.
+*Woofers 3D* is a Java API that attempts to unify the features of Box2D and Bullet Physics into a simple yet capable package that can be run on nearly any device via LibGDX. Supports modern features such as ray tracing, chasing camera, game states and 3D model importing.
 
-## Whale
 
-## [github.com/woofers/whale](https://github.com/woofers/whale)
+## [Whale](https://github.com/woofers/whale)
+
 
 ### Haxe
 
 *Whale* is a 2D arcade style game built using HaxeFlixel. It features score tracking, level generation and responsive accelerometer controls. Game is fully completed and can be downloaded from the Google Play Store.
 
-## Kangaroo Country
+## [Kangaroo Country](https://github.com/woofers/kangaroo-country)
 
-## [github.com/woofers/kangaroo-country](https://github.com/woofers/kangaroo-country)
 
 ### Actionscript 3
 
 *Kangaroo Country* is a 2D side-scrolling game built in Actionscrpt 3. Game features two fully completed levels where you play as two distinct characters in-order to solve platforming puzzles. As levels are imported from JSON based Tile Editor files, more levels can be dynamically added and created by others.
 
-## Fox Hole
+## [Fox Hole](https://github.com/woofers/fox-hole)
 
-## [github.com/woofers/fox-hole](https://github.com/woofers/fox-hole)
 
 ### Javascript
 
@@ -53,26 +55,34 @@ Compiled with XeLaTeX.
 
 # Skills
 
--   Experience working with Java, Haxe, Javascript and Git.
+-   Experience working with Java, Javascript, Actionscript 3, SQL, GraphQL and Git.
 -   Ability to quickly adapt to new tools, work-flow and procedures.
--   Comfortable with both Windows, Linux and MacOS command line tools and ecosystems.
+-   Comfortable with both Windows, Linux and MacOS commandline tools and ecosystems.
+
 
 # Experience
 
-## Line Cook at [Spitfire Grill](https://www.spitfiregrill.ca/)
 
-### June 2017 - October 2017
+## Software Developer Co-op at [FTS Inc.](https://ftsinc.com)
 
-**Sidney, BC**
--   Prepare food orders quickly and accurately using the appropriate procedures.
--   Properly maintain and operate commercial grade kitchen equipment.
--   Restock and consolidate inventory in dry and wet storage.
+
+### April 2018 - December 2018
+
+**Victoria, BC**
+
+-   Develop new features and services for web applications and APIs communicating with remote weather stations.
+-   Configure, manage and version software projects using automated deployment tools.
+-   Integrate Open Source tools used to configure IoT devices with existing software.
+
 
 # Education
 
-## BSc, Computer Science at [University of Victoria](https://www.uvic.ca/)
+
+## BSc, Computer Science at [University of Victoria](https://uvic.ca)
+
 
 ### Sept 2017 - Present
 
 **Victoria, BC**
+
 -   Expecting Graduation in 2021

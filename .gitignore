@@ -31,7 +31,7 @@ tramp
 *.nav
 *.snm
 *.vrb
-/resume.tex
-/resume.pdf
-/conent/resume.tex
-/conent/resume.pdf
+
+/content/*.tex
+/content/*.pdf
+/content/*.md
