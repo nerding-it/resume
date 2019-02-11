@@ -8,8 +8,8 @@
 #+LaTeX: \iffalse
 [[./images/woofers3d/1c.gif]]
 #+BEGIN_EXPORT html
-<a href='https://github.com/woofers/woofers3d' role='button'><i class="fa fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/woofers3d/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+<a href='https://github.com/woofers/woofers3d' role='button'><i class="fab fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/woofers3d/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
 #+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/whale][Whale]]
@@ -18,10 +18,10 @@
 #+LaTeX: \iffalse
 | [[./images/whale/4.png]] | [[./images/whale/2.png]] |
 #+BEGIN_EXPORT html
-<a href='whale/' role='button'><i class="fa fa-play-circle"></i> Play</a>
-<a href='https://play.google.com/store/apps/details?id=com.jaxson.whale&hl=en' role='button'><i class="fa fa-google"></i> Get it on Google Play</a>
-<a href='https://github.com/woofers/whale' role='button'><i class="fa fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/whale/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+<a href='whale/' role='button'><i class="fas fa-play-circle"></i> Play</a>
+<a href='https://play.google.com/store/apps/details?id=com.jaxson.whale&hl=en' role='button'><i class="fab fa-google"></i> Get it on Google Play</a>
+<a href='https://github.com/woofers/whale' role='button'><i class="fab fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/whale/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
 #+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/kangaroo-country][Kangaroo Country]]
@@ -30,8 +30,8 @@
 #+LaTeX: \iffalse
 [[./images/kangaroo/2.png]]
 #+BEGIN_EXPORT html
-<a href='https://github.com/woofers/kangaroo-country' role='button'><i class="fa fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/kangaroo-country/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+<a href='https://github.com/woofers/kangaroo-country' role='button'><i class="fab fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/kangaroo-country/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
 #+END_EXPORT
 #+LaTeX: \fi
 ** [[https://github.com/woofers/fox-hole][Fox Hole]]
@@ -40,8 +40,8 @@
 #+LaTeX: \iffalse
 [[./images/fox/1.png]]
 #+BEGIN_EXPORT html
-<a href='fox-hole/' role='button'><i class="fa fa-play-circle"></i> Play</a>
-<a href='https://github.com/woofers/fox-hole' role='button'><i class="fa fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/fox-hole/releases' role='button'><i class="fa fa-arrow-circle-down"></i> Download</a>
+<a href='fox-hole/' role='button'><i class="fas fa-play-circle"></i> Play</a>
+<a href='https://github.com/woofers/fox-hole' role='button'><i class="fab fa-github"></i> View on Github</a>
+<a href='https://github.com/woofers/fox-hole/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
 #+END_EXPORT
 #+LaTeX: \fi
