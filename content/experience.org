@@ -2,9 +2,9 @@
 * Experience
 ** Software Developer at [[https://ftsinc.com][FTS Inc.]]
 #+LaTeX: \vspace{-2.4ex}
-*** January 2019 - August 2019   (Contractor)
+*** \orange{Contractor} --- January 2019 - August 2019
 #+LaTeX: \vspace{2.4ex}
-*** April 2018 - December 2018       (Co-op)
+*** \orange{Co-op} --- April 2018 - December 2018
 *Victoria, BC*
 - Develop new features and services for web applications and APIs communicating with remote weather stations.
 - Configure, manage and version software projects using automated deployment tools.
