@@ -1,6 +1,3 @@
-#+TITLE: Projects
-#+SLUG: /projects/
-#+TYPE: page
 * Projects
 ** [[https://github.com/woofers/woofers3d][Woofers 3D]]
 *** Java

@@ -1,5 +1,5 @@
 
-#+Title: Resume
+#+Title: Jaxson Van Doorn's Resume
 #+Author: Jaxson Van Doorn
 # Adpated from Puneeth Chaganti at
 # https://github.com/punchagan/resume
