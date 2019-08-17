@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+MAIN=jaxsonvd-resume
 SRC=content/resume
 FOLDER=examples/latex
 DEST=$FOLDER/resume
@@ -19,6 +20,7 @@ yes | emacs \
 
 # Move PDF
 mv $SRC.pdf $DEST.pdf
+cp $DEST.pdf $MAIN.pdf
 mv $SRC.tex $DEST.tex
 
 # Convert to PNG
