@@ -48,14 +48,13 @@
 
 %% Document Header
 \renewcommand{\arraystretch}{0.4}
-\newcommand{\resheader}[7]{
-
+\newcommand{\resheader}[8]{
   \IfStrEq{\@photo}{}{}{\indent}
   \begin{tabular}{L{13.9cm} R{4.65cm}}
     \begin{tabular}{L{8.10cm} L{5.40cm}}
       \\[2pt]
       \textbf{\huge #1} & \large \faEnvelope #3 & \\
-      \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faPhone #4
+      \hspace{0.15cm} \large \faGlobe \hspace{0.03cm} \large \boldurl{#2}{#2} & \large \faGithub \hspace{0.03cm} \blackurl{https://github.com/#8}{#8}
     \end{tabular} &
     \IfStrEq{\@photo}{}
       {\large \makecell[tr]{\faHome \hspace{0.03cm} #5 \\ #6 \\ #7 \\}}
@@ -115,9 +114,9 @@
 
 
 %% Bold URLs
+\newcommand{\blackurl}[2]{\changeurlcolor{black}\oldhref{#1}{#2}\changeurlcolor{pumpkin}}
 \let\oldhref\href
-\renewcommand{\href}[2]{\changeurlcolor{black}\oldhref{#1}{#2}
-                        \changeurlcolor{pumpkin} \newline
+\renewcommand{\href}[2]{\blackurl{#1}{#2} \newline
                         \oldhref{#1}{\StrSubstitute{#1}{https://}{}}}
 
 \newcommand{\orange}[1]{{\color{pumpkin}#1}}
