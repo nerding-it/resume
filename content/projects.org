@@ -1,44 +1,15 @@
 * Projects
-** [[https://github.com/woofers/woofers3d][Woofers 3D]]
+** [[https://github.com/woofers/react-wavify][React Wavify]]
+*** JavaScript + React
+A UI component for React which generates a sinusoidal wave.  With over 2.4K downloads on NPM and used in over 20 projects on GitHub, /React Wavify/'s API allows users full control over both the speed and amplitude of the wave.
+** [[https://github.com/woofers/battlesnake-2019][Battlesnake 2019]]
 *** Java
-/Woofers 3D/ is a Java API that attempts to unify the features of Box2D and Bullet Physics into a simple yet capable package that can be run on nearly any device via LibGDX. Supports modern features such as ray tracing, chasing camera, game states and 3D model importing.
-#+LaTeX: \iffalse
-[[./images/woofers3d/1c.gif]]
-#+BEGIN_EXPORT html
-<a href='https://github.com/woofers/woofers3d' role='button'><i class="fab fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/woofers3d/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
-#+END_EXPORT
-#+LaTeX: \fi
-** [[https://github.com/woofers/whale][Whale]]
-*** Haxe
-/Whale/ is a 2D arcade style game built using HaxeFlixel. It features score tracking, level generation and responsive accelerometer controls. Game is fully completed and can be downloaded from the Google Play Store.
-#+LaTeX: \iffalse
-| [[./images/whale/4.png]] | [[./images/whale/2.png]] |
-#+BEGIN_EXPORT html
-<a href='whale/' role='button'><i class="fas fa-play-circle"></i> Play</a>
-<a href='https://play.google.com/store/apps/details?id=com.jaxson.whale&hl=en' role='button'><i class="fab fa-google"></i> Get it on Google Play</a>
-<a href='https://github.com/woofers/whale' role='button'><i class="fab fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/whale/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
-#+END_EXPORT
-#+LaTeX: \fi
-** [[https://github.com/woofers/kangaroo-country][Kangaroo Country]]
-*** Actionscript 3
-/Kangaroo Country/ is a 2D side-scrolling game built in Actionscrpt 3. Game features two fully completed levels where you play as two distinct characters in-order to solve platforming puzzles. As levels are imported from JSON based Tile Editor files, more levels can be dynamically added and created by others.
-#+LaTeX: \iffalse
-[[./images/kangaroo/2.png]]
-#+BEGIN_EXPORT html
-<a href='https://github.com/woofers/kangaroo-country' role='button'><i class="fab fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/kangaroo-country/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
-#+END_EXPORT
-#+LaTeX: \fi
-** [[https://github.com/woofers/fox-hole][Fox Hole]]
-*** Javascript
-/Fox Hole/ is a 2D proof of concept game built in Javascript with Phaser. You play as a fox sneaking past enemy crocodiles using underground tunnels in order to save your brother. It features checkpoints and enemies complete with very basic AI.
-#+LaTeX: \iffalse
-[[./images/fox/1.png]]
-#+BEGIN_EXPORT html
-<a href='fox-hole/' role='button'><i class="fas fa-play-circle"></i> Play</a>
-<a href='https://github.com/woofers/fox-hole' role='button'><i class="fab fa-github"></i> View on Github</a>
-<a href='https://github.com/woofers/fox-hole/releases' role='button'><i class="fas fa-arrow-circle-down"></i> Download</a>
-#+END_EXPORT
-#+LaTeX: \fi
+A snake AI built as a Java web-server entered in the /Battlesnake 2019/ event.  Competed against snakes from various local tech companies.  Deployed on Heroku platform.
+
+** [[https://github.com/woofers/ludum-dare-44][ALIEN, e x p a n s i o n .]]
+*** Lua / MoonScript
+/ALIEN, e x p a n s i o n ./ is a pseudo 3D rail space shooter built in under 48 hours for Ludum Dare 44 game jam.  Scored in top 25% overall and top 5% percentile for graphics out of nearly 2000 games.
+
+** [[https://github.com/woofers/ludum-dare-badges][Ludum Dare Badges]]
+*** JavaScript
+A serverless API which generates SVG and PNG badges displaying Ludum Dare game jam results for a particular game.  Stats are retrieved from the Ludum Dare API.  Deployed on ZEIT Now platform.
