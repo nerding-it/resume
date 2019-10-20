@@ -1,15 +1,23 @@
 * Projects
 ** [[https://github.com/woofers/react-wavify][React Wavify]]
 *** JavaScript + React
-A UI component for React which generates a sinusoidal wave.  With over 2.4K downloads on NPM, /React Wavify/'s API allows users full control over both the speed and amplitude of the wave.
+A UI component for React which generates a sinusoidal wave.
+
+With over 2.4K downloads on NPM, /React Wavify/ is deployed on a variety of both commercial and personal sites.
 ** [[https://github.com/woofers/battlesnake-2019][Battlesnake 2019]]
 *** Java
-A snake AI built as a Java web-server entered in the /Battlesnake 2019/ event.  Competed against snakes from various local tech companies.  Deployed on Heroku platform.
+A snake AI built as a Java web-server entered in the /Battlesnake 2019/ event.
+
+Competed against snakes from various local tech companies.  Deployed on Heroku platform.
 
 ** [[https://github.com/woofers/ludum-dare-44][ALIEN, e x p a n s i o n .]]
 *** Lua / MoonScript
-/ALIEN, e x p a n s i o n/ is a pseudo 3D rail space shooter built in under 48 hours for Ludum Dare 44 game jam.  Scored in top 25% overall and top 5% for graphics out of nearly 2000 games.
+/ALIEN, e x p a n s i o n/ is a pseudo 3D rail space shooter built in under 48 hours for the Ludum Dare 44 game jam.
+
+Scored in top 25% overall and top 5% for graphics out of nearly 2000 games.
 
 ** [[https://github.com/woofers/ludum-dare-badges][Ludum Dare Badges]]
 *** JavaScript
-A serverless API which generates SVG and PNG badges displaying Ludum Dare game jam results for a particular game.  Stats are retrieved from the Ludum Dare API.  Deployed on ZEIT Now platform.
+A serverless API which generates SVG and PNG badges displaying Ludum Dare game jam results for a particular game.
+
+Stats are retrieved from the Ludum Dare API.  Deployed on ZEIT Now platform.
