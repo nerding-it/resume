@@ -4,7 +4,7 @@
 #+LaTeX: \vspace{-2.4ex}
 *** \orange{Contractor} --- January 2019 - August 2019
 #+LaTeX: \vspace{2.4ex}
-*** \orange{Co-op} --- April 2018 - December 2018
+*** \orange{Co-op} --- May 2018 - December 2018
 #+LaTeX: \vspace{-1ex}
 *Victoria, BC*
 - Develop new features and services for web applications and APIs communicating with remote weather stations.
