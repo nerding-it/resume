@@ -3,7 +3,7 @@
 *** JavaScript + React
 A UI component for React which generates a sinusoidal wave.
 
-With over 2.4K downloads on NPM, /React Wavify/ is deployed on a variety of both commercial and personal sites.
+With over 2.7K downloads on NPM, /React Wavify/ is deployed on a variety of both commercial and personal sites.
 ** [[https://github.com/woofers/battlesnake-2019][Battlesnake 2019]]
 *** Java
 A snake AI built as a Java web-server entered in the /Battlesnake 2019/ event.
