@@ -24,7 +24,8 @@
   xstring,
   makecell,
   array,
-  graphicx
+  graphicx,
+  etoolbox
 }
 \RequirePackage[empty]{fullpage}
 
@@ -90,9 +91,14 @@
             {0pt} %sep
             {} %before-code
             [] %after-code
+\titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
 
 %% Date
-\titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
+\newrobustcmd{\orange}[1]{{\color{pumpkin}#1}}
+\newrobustcmd{\beforespace}[1]{\StrBefore{#1}{ }}
+\newrobustcmd{\afterspace}[1]{\StrBehind{#1}{ }}
+\let\basesubsubsection\subsubsection
+\renewcommand{\subsubsection}[1]{\basesubsubsection{\orange{\beforespace{#1}} ~\afterspace{#1}}}
 \titleformat{\subsubsection} %command
             [block] %shape
             {\vspace{-2.4ex}\bfseries\itshape\small\raggedleft} %format
@@ -118,5 +124,3 @@
 \let\oldhref\href
 \renewcommand{\href}[2]{\blackurl{#1}{#2} \newline
                         \oldhref{#1}{\StrSubstitute{#1}{https://}{}}}
-
-\newcommand{\orange}[1]{{\color{pumpkin}#1}}
