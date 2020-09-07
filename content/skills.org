@@ -1,4 +1,4 @@
 * Skills
-  - Experience working with Java, JavaScript, React, Git, SQL and GraphQL.
-  - Ability to quickly adapt to new tools, work-flow and procedures.
+  - Experience working with JavaScript, React, Git, Java, GraphQL and SQL.
+  - Ability to quickly adapt to new tools, and work-flows.
   - Comfortable with both Windows, Linux and MacOS commandline tools and ecosystems.
