@@ -1,11 +1,11 @@
 #+LaTeX: \toggleurlstyle
 * Experience
-** Junior Software Developer at [[https://machobear.ca/][Machobear Studios Inc.]]
+** Junior Software Developer at [[https://machobear.ca][Machobear Studios Inc.]]
 #+LaTeX: \vspace{-1.2ex}
 *** \orange{Remote} --- May 2020 - August 2020
 #+LaTeX: \vspace{1.2ex}
 *Vancouver, BC*
-- Develop accessible and responsive front-end features for **[[https://liv.rent/][liv.rent]]** rental platform.
+- Develop accessible and responsive front-end features for **[[https://liv.rent][liv.rent]]** rental platform.
 - Construct a performant and bug-free experience for end users using React, GrahpQL and Redux.
 - Communicate with product management team as-needed to ensure features are implemented as desired.
 #+LaTeX: \vspace{0.5ex}
