@@ -11,6 +11,5 @@
 
 #+INCLUDE: header.org
 #+INCLUDE: projects.org
-#+INCLUDE: skills.org
 #+INCLUDE: experience.org
 #+INCLUDE: education.org
